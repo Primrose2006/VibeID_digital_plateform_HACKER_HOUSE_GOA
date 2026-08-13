@@ -1,0 +1,6 @@
+{
+  "name": "VibeID - Digital ID Management Platform",
+  "description": "High-fidelity digital ID card creator & management system featuring automatic background removal, rapid QR scanning, and security verification.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
